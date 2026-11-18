@@ -1,0 +1,50 @@
+{
+    "mainKey": "0x8825A415862807E1EB25FEA7CB3839DBB9DC5881EBD43E85F4A01A05821FDB7F",
+    "dynamicKeys": [
+        {
+            "name": "Base_D_W01_A01_L01_32_P_3045_P.utoc",
+            "guid": "B63552234E0EF6F4463A6BA4BCB0C1A2",
+            "key": "0x03761D6D999DCD5B025D90F0ADD2B23F22B6628CE896B03FE524D061FA8E713F"
+        },
+        {
+            "name": "Delay_Asset_Group_Feature_NA_Clothes_F10378_3045_P.utoc",
+            "guid": "EB0124E04CAE51A97A7692B59E2D4467",
+            "key": "0xC0612F2FD6BF9F52B337DDCA9DB957DB1EFF33E344D323910045DAE22F7F1A19"
+        },
+        {
+            "name": "Delay_Asset_DynamicGroup_Core_StarSea_ActivitySecondHalf_3045_P.pak",
+            "guid": "FECABC404CC7327924BD9286B5F9DACD",
+            "key": "0x7428B4AA9FBAF67D974A693F7BF9EE0A3F5075B6545BF76026810DEC843B382B"
+        },
+        {
+            "name": "Delay_Asset_DynamicGroup_Feature_NA_Clothes_F10367_3045_P.pak",
+            "guid": "E54A783D48B2DF89FB860BB94A8F040C",
+            "key": "0x0B355E3FD2891EAD56F6578C23EDBF25B6C55E62A785B46523F7873A1FDD590A"
+        },
+        {
+            "name": "Delay_Asset_DynamicGroup_Region_L03_Cicia_ActivitySecondHalf_3045_P.utoc",
+            "guid": "B22133204ED29F8573B2EE9995B66D4F",
+            "key": "0x423C5B05A6A8B1A23466546983BCDEB26FED2B6713D794D0CFD11C13C0EFB679"
+        },
+        {
+            "name": "Delay_Asset_DynamicGroup_Feature_NA_Clothes_F10372_3045_P.utoc",
+            "guid": "DB2E05D44DD93E64188DCFA31C52C54B",
+            "key": "0xD9A2400A3F12C1DA6325C68C883A4C175DAD6364B4C58409D7A6DCB6255754C3"
+        },
+        {
+            "name": "Delay_Asset_DynamicGroup_Feature_NA_Clothes_VER_300_LIMITEDGACHA_3_0_2_3045_P.pak",
+            "guid": "97947F8D4E77BB2BC72B509468845AD1",
+            "key": "0xE2D4E471F72244F80321D00F793A0E891F4C940D6BF5176736B5AB8B78EF8EDE"
+        },
+        {
+            "name": "Delay_Asset_DynamicGroup_Feature_NA_Clothes_VER_300_MALL_3_0_2_3045_P.pak",
+            "guid": "0ED5E7BD414A3AE1877B488C19884791",
+            "key": "0x297746B6A5BA5D48882E3D913769F9AFA904D6A88D096C820CCCBC527F25FD8D"
+        },
+        {
+            "name": "Delay_Asset_DynamicGroup_Feature_NA_Clothes_WLD_05_MISSION_3_0_2_3045_P.pak",
+            "guid": "5DA2E7BA48378ABE33D302B1C7BD94BF",
+            "key": "0x7391C7A956C4B163438B34AD752B94F2DBBF789DFE48E6A430D6CDD71100B46F"
+        }
+    ]
+}
